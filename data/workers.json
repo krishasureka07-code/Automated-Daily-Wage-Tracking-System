@@ -1,0 +1,42 @@
+[
+    {
+        "worker_id": "W-101",
+        "name": "Mukesh",
+        "skill_level": "Unskilled",
+        "daily_rate": 650.0,
+        "standard_hours": 8.0,
+        "experience_years": 1.0
+    },
+    {
+        "worker_id": "W-102",
+        "name": "Mukesh",
+        "skill_level": "Semi-Skilled",
+        "daily_rate": 650.0,
+        "standard_hours": 8.0,
+        "experience_years": 2.0
+    },
+    {
+        "worker_id": "W-103",
+        "name": "Mukesh",
+        "skill_level": "Skilled",
+        "daily_rate": 600.0,
+        "standard_hours": 8.0,
+        "experience_years": 5.0
+    },
+    {
+        "worker_id": "W-104",
+        "name": "Manoj",
+        "skill_level": "Semi-Skilled",
+        "daily_rate": 650.0,
+        "standard_hours": 8.0,
+        "experience_years": 2.0
+    },
+    {
+        "worker_id": "W-105",
+        "name": "Manoj",
+        "skill_level": "Semi-Skilled",
+        "daily_rate": 650.0,
+        "standard_hours": 8.0,
+        "experience_years": 2.0
+    }
+]
